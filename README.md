@@ -44,4 +44,4 @@ function createCards(prods) {
 ```
 >Vista previa del index.html
 
-![Index](https://github.com/RaulRamirezGlez-00/Fetch_API/blob/main/images/preview.png?raw=true)
+![Index](https://github.com/RaulRamirezGlez-00/Fetch_API/blob/main/images/vista%20previa.png?raw=true)
